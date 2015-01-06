@@ -5,7 +5,7 @@ Yogurtland-Runner
 Used Abstract factory, facade, obsever,strategy and flyweight design patterns.
 
 Other contributors:
-Amit Dubey
-Jainikkumar Vora
-Raina Shastri
+Amit Dubey,
+Jainikkumar Vora,
+Raina Shastri,
 Prajakta Naik
